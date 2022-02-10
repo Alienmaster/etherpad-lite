@@ -559,7 +559,7 @@ returns the id of a pad which is assigned to the readOnlyID
 #### setPublicStatus(padID, publicStatus)
  * API >= 1
 
-sets a boolean for the public status of a pad
+sets a boolean for the public status of a group pad
 
 *Example returns:*
   * `{code: 0, message:"ok", data: null}`
